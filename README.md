@@ -6,8 +6,8 @@ To avoid this, we will **disable auto-deploy**.
 
 You will create a simple GitHub repo containing:
 
-✅ package.json
-✅ server.js
+✅ [package.json](https://github.com/conquerorscoheirs-ag/CCC-Network-Automation-Systems-n8n-Node/blob/main/package.json)
+✅ [server.js](https://github.com/conquerorscoheirs-ag/CCC-Network-Automation-Systems-n8n-Node/blob/main/server.js)
 ✅ Procfile (optional)
 ✅ render.yaml (optional, not required for Node mode)
 
