@@ -2,7 +2,7 @@
 If Render redeploys automatically (e.g., you push new Git commits) → **your data is wiped**.
 To avoid this, we will **disable auto-deploy**.
 
-# ✅ ✅ ✅ FULL WORKING SETUP FOR RENDER NODE.JS (FREE PLAN)
+# ✅ ✅ ✅ FULL WORKING SETUP FOR [RENDER](https://render.com/) [NODE.JS](https://nodejs.org/) (FREE PLAN)
 
 You will create a simple GitHub repo containing:
 
