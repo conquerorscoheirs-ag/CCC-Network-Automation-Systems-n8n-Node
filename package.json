@@ -1,10 +1,15 @@
 {
-  "name": "n8n-render",
+  "name": "n8n-render-facebook-automation",
   "version": "1.0.0",
+  "description": "n8n Facebook Messenger automation on Render.com free tier",
   "scripts": {
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "2.0.3"
+    "n8n": "1.78.1"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
   }
 }
